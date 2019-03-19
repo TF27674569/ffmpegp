@@ -58,6 +58,7 @@ make install
 
 ## 最后
 如果只需要so或没有编译出so可以直接时候这里编译好的so<br/>
-位置：[ffmpegp-2.6.9/android/arm ](https://github.com/TF27674569/ffmpegp/tree/master/ffmpeg-2.6.9/android/arm) 
+位置：[ffmpegp-2.6.9/android/arm ](https://github.com/TF27674569/ffmpegp/tree/master/ffmpeg-2.6.9/android/arm) <br/>
+使用so：[使用ffmpegp解码](https://github.com/TF27674569/FFmpegpDecode) <br/>
 
 
