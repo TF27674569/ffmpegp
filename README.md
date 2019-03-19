@@ -1,5 +1,5 @@
 ## ffmpegp交叉编译mac
-本编译使用mac + NDK-r14（linux 上 r10 亲测可行） + ffmpegp-2.6.9
+本编译使用mac +[ NDK-r14(linux 上 r10 亲测可行)](https://developer.android.google.cn/ndk/downloads/) + [ffmpegp-2.6.9](http://ffmpeg.org/download.html)
 
 ### 步骤
 &nbsp;    1.配置好NDK环境，下载ffmpegp源码
@@ -54,6 +54,8 @@ make install
 ```
 
 &nbsp;    3.执行shell脚本（注意给shell脚本权限chmod 777 XXX.sh）
+
+## ffmpegp各个模块
 
 
 ## 最后
