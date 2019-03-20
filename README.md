@@ -57,6 +57,14 @@ make install
 
 ## ffmpegp各个模块
 
+&nbsp;    1 avcodec：编解码最重要的库
+&nbsp;    2 avformat：封装格式处理
+&nbsp;    3 avfilter：滤镜特效处理
+&nbsp;    4 avdevice：各种设备的输入输出
+&nbsp;    5 avutil：工具库
+&nbsp;    6 postproc：后加工
+&nbsp;    7 swresample：音频采样数据格式转换
+&nbsp;    8 swscale：视频像素数据格式转换
 
 ## 最后
 如果只需要so或没有编译出so可以直接时候这里编译好的so<br/>
