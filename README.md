@@ -1,5 +1,5 @@
 ## ffmpegp交叉编译mac
-本编译使用mac +[ NDK-r14(linux 上 r10 亲测可行)](https://developer.android.google.cn/ndk/downloads/) + [ffmpegp-2.6.9](http://ffmpeg.org/download.html)
+本编译使用mac +[ NDK-r14(linux 上 r10 亲测可行)](https://developer.android.google.cn/ndk/downloads/) + [ffmpegp-2.6.9, ffmpegp-3.3.9可以, 4.1的版本会报udp.c里面的函数错误，需要自己修改](http://ffmpeg.org/download.html)
 
 ### 步骤
 &nbsp;    1.配置好NDK环境，下载ffmpegp源码
